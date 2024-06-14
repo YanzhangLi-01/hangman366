@@ -1,6 +1,6 @@
 import random
 
-word_list = ["Apple", "Strawberry", "Cherry", "grape", "banana"]
+word_list = ["apple", "strawberry", "cherry", "grape", "banana"]
 print(word_list)
 
 word = random.choice(word_list)
